@@ -1,0 +1,9 @@
+\l
+CREATE DATABASE first_database;
+\l
+CREATE DATABASE second_database;
+\s
+\l
+\s second_database
+;
+\s second_database;
